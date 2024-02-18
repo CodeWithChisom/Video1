@@ -1,1 +1,17 @@
+.articles {
+  h2 {
+    background-color: rebeccapurple;
+  }
 
+  a {
+    display: block;
+    margin: 4em;
+    color: hotpink;
+  }
+}
+
+.hero {
+  .container {
+    height: 100dvh;
+  }
+}
